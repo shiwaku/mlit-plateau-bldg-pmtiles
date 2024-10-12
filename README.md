@@ -7,6 +7,8 @@
 ```
 https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2022_LOD1.pmtiles
 ```
+- ライセンス：-
+
 ## 3D都市モデル（Project PLATEAU）建築物モデル（2023年）PMTiles
 ### データの出典
 - [Pacific Spatial Solutions株式会社](https://pacificspatial.com/)が作成した、[3D都市モデル（Project PLATEAU）建築物モデルLOD0のGeoParquet](https://beta.source.coop/repositories/pacificspatial/flateau/description/)（CC BY 4.0ライセンス）
