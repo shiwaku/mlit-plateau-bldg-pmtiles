@@ -1,7 +1,7 @@
 # mlit-plateau-bldg-pmtiles
 ## 3D都市モデル（Project PLATEAU）建築物モデル（2022年）PMTiles
 ### データの出典
-- [法務省地図XMLアダプトプロジェクト](https://github.com/amx-project)にて公開されている、[3D都市モデル（Project PLATEAU）建築物モデルLOD1のPMTiles](https://github.com/amx-project/apb)をリネームしたものです。
+- [法務省地図XMLアダプトプロジェクト](https://github.com/amx-project)にて公開されている、[3D都市モデル（Project PLATEAU）建築物モデルLOD1のPMTiles](https://github.com/amx-project/apb)をリネームしたもの
 - 対象都市：日本全国123都市（2022年公開時点）
 ### データURL
 ```
