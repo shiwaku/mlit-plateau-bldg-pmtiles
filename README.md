@@ -21,3 +21,4 @@ tippecanoe -o PLATEAU_2023_LOD0.pmtiles PLATEAU_2023_LOD0.geojson -Z16 -z16 -pf 
 ```
 https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2023_LOD0.pmtiles
 ```
+- ライセンス：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
