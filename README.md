@@ -11,7 +11,11 @@ https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2022_LOD1.pmtiles
 - [Pacific Spatial Solutions株式会社](https://pacificspatial.com/)が作成した、[3D都市モデル（Project PLATEAU）建築物モデルLOD0のGeoParquet](https://beta.source.coop/repositories/pacificspatial/flateau/description/)（CC BY 4.0ライセンス）
 - 対象都市：日本全国210都市（2023年公開時点）
 ### データの作成方法
-
+- GDAL/OGRでGeoParquetを一旦GeoJSONに変換後、
+```
+ogr2ogr -f "GeoJSON" PLATEAU_2023_LOD0.geojson merged_building_lod0.parquet
+tippecanoe -o PLATEAU_2023_LOD0.pmtiles PLATEAU_2023_LOD0.geojson -Z16 -z16 -pf -pk
+```
 ```
 https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2023_LOD0.pmtiles
 ```
