@@ -5,7 +5,7 @@
 - 対象都市：日本全国123都市（2022年公開時点）
 ### タイルデータURL
 ```
-https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2022_LOD1.pmtiles
+https://shi-works.com/pmtiles/plateau/PLATEAU_2022_LOD1.pmtiles
 ```
 - ライセンス：-
 
@@ -21,6 +21,6 @@ tippecanoe -o PLATEAU_2023_LOD0.pmtiles PLATEAU_2023_LOD0.geojson -Z16 -z16 -pf 
 ```
 ### タイルデータURL
 ```
-https://shiworks.xsrv.jp/pmtiles-data/plateau/PLATEAU_2023_LOD0.pmtiles
+https://shi-works.com/pmtiles/plateau/PLATEAU_2023_LOD0.pmtiles
 ```
 - ライセンス：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
